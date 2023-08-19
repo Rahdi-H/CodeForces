@@ -1,1 +1,0 @@
-Don't forget to remove strings from input("REMOVE THIS STRING FROM CODE BEFORE SUBMIT") before submiting the code otherwise result will be wrong.
