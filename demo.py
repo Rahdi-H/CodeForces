@@ -1,4 +1,3 @@
-a = [1, 2, 3]
-b = a.copy()
-a[2] = 4
-print(b)
+a = 12455
+i = set(str(a))
+print(i)
