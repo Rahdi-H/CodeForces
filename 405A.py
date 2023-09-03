@@ -1,0 +1,6 @@
+n = input("Enter: ")
+c = input("Ente: ").split(" ")
+j = list(map(int, c))
+j.sort()
+k = list(map(str, j))
+print(" ".join(k))
